@@ -1,0 +1,67 @@
+{
+    "BTC": {
+        "status": "waiting",
+        "last_sell": {
+            "amount": 0.001491,
+            "value": 66.92,
+            "time": "2021-08-17 22:54:09.010042"
+        },
+        "last_buy": {
+            "amount": 0.00149091,
+            "value": 50,
+            "time": "2021-08-17 18:48:56.257504"
+        }
+    },
+    "ETH": {
+        "status": "waiting",
+        "last_sell": {
+            "amount": 0.01328,
+            "value": 40.09,
+            "time": "2021-08-17 22:54:13.709315"
+        },
+        "last_buy": {
+            "amount": 0.01327946,
+            "value": 40,
+            "time": "2021-08-17 18:48:56.257504"
+        }
+    },
+    "ADA": {
+        "status": "waiting",
+        "last_sell": {
+            "amount": 4.47552,
+            "value": 9,
+            "time": "2021-08-17 18:48:56.257504"
+        },
+        "last_buy": {
+            "amount": 4.47552,
+            "value": 9,
+            "time": "2021-08-17 18:48:56.257504"
+        }
+    },
+    "DOGE": {
+        "status": "waiting",
+        "last_sell": {
+            "amount": 18.9,
+            "value": 6,
+            "time": "2021-08-17 18:48:56.257504"
+        },
+        "last_buy": {
+            "amount": 18.9,
+            "value": 6,
+            "time": "2021-08-17 18:48:56.257504"
+        }
+    },
+    "BTT": {
+        "status": "waiting",
+        "last_sell": {
+            "amount": 999,
+            "value": 4.5,
+            "time": "2021-08-17 18:48:56.257504"
+        },
+        "last_buy": {
+            "amount": 999,
+            "value": 4.5,
+            "time": "2021-08-17 18:48:56.257504"
+        }
+    }
+}
